@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/27e3f916-9837-447a-92b0-70eb874e8a77)# An-Excel-Project_Coffee-Sales-Dashboard
+# An-Excel-Project_Coffee-Sales-Dashboard
 This is an Excel project where I have built a Coffee Sales Dashboard using coffee orders (raw data) for a particular café that has business in multiple countries.
 This project includes:
 1. Data cleaning
